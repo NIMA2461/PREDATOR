@@ -1,0 +1,28 @@
+.canvas {
+    width: 100%;
+    height: 100%;
+    background-color: #87CEEB; /* Sky blue */
+    border: 1px solid #000; /* Black border */
+}
+
+.block {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
+
+.grass {
+    background-color: #7CFC00; /* Lawn green */
+}
+
+.dirt {
+    background-color: #8B4513; /* Saddle brown */
+}
+
+.stone {
+    background-color: #A9A9A9; /* Dark gray */
+}
+
+.water {
+    background-color: #00BFFF; /* Deep sky blue */
+}
